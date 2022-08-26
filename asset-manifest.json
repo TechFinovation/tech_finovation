@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/tech_finovation/static/css/main.073c9b0a.css",
-    "main.js": "/tech_finovation/static/js/main.0e9badb9.js",
-    "static/js/787.39aa4bac.chunk.js": "/tech_finovation/static/js/787.39aa4bac.chunk.js",
-    "static/media/logo.svg": "/tech_finovation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/tech_finovation/static/css/main.89db885b.chunk.css",
+    "main.js": "/tech_finovation/static/js/main.a1207a96.chunk.js",
+    "main.js.map": "/tech_finovation/static/js/main.a1207a96.chunk.js.map",
+    "runtime-main.js": "/tech_finovation/static/js/runtime-main.fbcffb5c.js",
+    "runtime-main.js.map": "/tech_finovation/static/js/runtime-main.fbcffb5c.js.map",
+    "static/css/2.984f751f.chunk.css": "/tech_finovation/static/css/2.984f751f.chunk.css",
+    "static/js/2.1ef445a0.chunk.js": "/tech_finovation/static/js/2.1ef445a0.chunk.js",
+    "static/js/2.1ef445a0.chunk.js.map": "/tech_finovation/static/js/2.1ef445a0.chunk.js.map",
+    "static/js/3.236e0759.chunk.js": "/tech_finovation/static/js/3.236e0759.chunk.js",
+    "static/js/3.236e0759.chunk.js.map": "/tech_finovation/static/js/3.236e0759.chunk.js.map",
     "index.html": "/tech_finovation/index.html",
-    "main.073c9b0a.css.map": "/tech_finovation/static/css/main.073c9b0a.css.map",
-    "main.0e9badb9.js.map": "/tech_finovation/static/js/main.0e9badb9.js.map",
-    "787.39aa4bac.chunk.js.map": "/tech_finovation/static/js/787.39aa4bac.chunk.js.map"
+    "static/css/2.984f751f.chunk.css.map": "/tech_finovation/static/css/2.984f751f.chunk.css.map",
+    "static/css/main.89db885b.chunk.css.map": "/tech_finovation/static/css/main.89db885b.chunk.css.map",
+    "static/js/2.1ef445a0.chunk.js.LICENSE.txt": "/tech_finovation/static/js/2.1ef445a0.chunk.js.LICENSE.txt",
+    "static/media/img1.27a44249.png": "/tech_finovation/static/media/img1.27a44249.png",
+    "static/media/img2.66929c17.png": "/tech_finovation/static/media/img2.66929c17.png",
+    "static/media/img3.c42a0d9f.png": "/tech_finovation/static/media/img3.c42a0d9f.png",
+    "static/media/img5.b4cd0064.png": "/tech_finovation/static/media/img5.b4cd0064.png"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0e9badb9.js"
+    "static/js/runtime-main.fbcffb5c.js",
+    "static/css/2.984f751f.chunk.css",
+    "static/js/2.1ef445a0.chunk.js",
+    "static/css/main.89db885b.chunk.css",
+    "static/js/main.a1207a96.chunk.js"
   ]
 }
